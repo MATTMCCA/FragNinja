@@ -1,0 +1,32 @@
+Partlist
+
+Exported from FN_001.sch at 9/13/2020 12:08 AM
+
+EAGLE Version 9.5.0 Copyright (c) 1988-2019 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value               Device              Package        Library             Sheet       Digikey Part#
+
+C1       1uF                 C-EUC0603K          C0603K         rcl                 1           1276-1182-1-ND
+
+C2       4.7uF               C-EUC0603K          C0603K         rcl                 1           445-14258-1-ND
+C3       4.7uF               C-EUC0603K          C0603K         rcl                 1           445-14258-1-ND
+
+C4       4.7nF               C-EUC0603K          C0603K         rcl                 1           399-1087-2-ND
+
+C5       1uF                 C-EUC0603K          C0603K         rcl                 1           1276-1182-1-ND
+C6       1uF                 C-EUC0603K          C0603K         rcl                 1           1276-1182-1-ND
+C7       1uF                 C-EUC0603K          C0603K         rcl                 1           1276-1182-1-ND
+
+LED1     RED                 SML-D12U1WT86       LED_SMLD12_ROM SML-D12U1WT86       1           SML-D12U1WT86CT-ND
+
+R1       1M                  R-US_R0603          R0603          rcl                 1           A130452CT-ND
+
+R2       1.5K                R-US_R0603          R0603          rcl                 1           A130092CT-ND
+
+U1       PRTR5V0U2X,215      PRTR5V0U2X          SOT143B_NXP    PRTR5V0U2X          1           1727-3884-1-ND
+
+U2       AP7365-33WG-7       AP7365-33WG-7       SOT25_DIO      AP7365-33WG-7       1           AP7365-33WG-7DICT-ND
+
+U3       ATSAMD21E18A-AU     ATSAMD21E18A-AU     TQFP32_MC_MCH  ATSAMD21E18A-AU     1           ATSAMD21E18A-AU-ND

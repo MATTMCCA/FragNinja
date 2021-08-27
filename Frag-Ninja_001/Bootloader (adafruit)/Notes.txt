@@ -1,0 +1,9 @@
+- Notes -
+https://learn.adafruit.com/how-to-program-samd-bootloaders/programming-the-bootloader-with-atmel-studio
+https://learn.adafruit.com/how-to-program-samd-bootloaders/trinket-m0-wiring
+
+https://learn.adafruit.com/assets/45723
+https://www.adafruit.com/product/3500
+
+- Bootloader -
+https://github.com/adafruit/uf2-samdx1/releases/tag/v3.10.0

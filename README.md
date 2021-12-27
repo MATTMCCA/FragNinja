@@ -101,3 +101,6 @@ Comes as is, no warranty. I am also not responsible for any spontaneous time tra
 
 
 *Moved from my old repo*
+
+
+### Borrowed works maintain original license.
